@@ -16,3 +16,5 @@ For the .mp4 output you might need to download ffmpeg drivers.
 
 An example of postprocessed output is available here :
 https://drive.google.com/open?id=1rskCCIFL1jdFZTKHGIkGHAuwGfmP2Qmh
+
+See also : https://deezer.io/visualize-your-music-dna-with-data-b1f1b6631b98
