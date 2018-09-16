@@ -1,6 +1,8 @@
 # processing-bubbles-art
 A data visualisation animation made with Processing library
 
+![ Image ](https://image.ibb.co/dvjBZz/1_5_L1h_Gci_Ka_Mkfo_Pm7v_Dq_Q.png)
+
 ## Description
 This is a toy project made in the context of Deezer's internal 2018 Hackathon.
 The idea was to create some personalised piece of art from users' listening data.
